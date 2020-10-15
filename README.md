@@ -1,7 +1,6 @@
 # みーにと自己紹介
 
 - リンク集がほしかった
-- これポートフォリオというよりプロフィールだけどまあいいや…
 
 ## URL
 https://mini-hiori.github.io/portfolio/
