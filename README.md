@@ -3,7 +3,7 @@
 - リンク集がほしかった
 
 ## URL
-https://mini-hiori.github.io/portfolio/
+https://mini-hiori.github.io/profile/
 
 ## フォーク元
 http://orderedlist.github.com/minimal/
