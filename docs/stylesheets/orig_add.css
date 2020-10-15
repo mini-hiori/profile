@@ -1,0 +1,29 @@
+.title {
+    color : #696969;
+    font-family: Monotype Corsiva;
+    text-align: center;
+  }
+
+.selfy {
+    border-radius: 50%;
+}
+
+.selfy-layout {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+}
+
+.header-media {
+    justify-content: center;
+    display: flex;
+    margin: 0 auto;
+}
+
+.flex-content {
+    /* display:flex; */
+    /* align-items:center; */
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+}
