@@ -2,6 +2,9 @@
 
 リンク集がほしかった
 
+## URL
+https://mini-hiori.github.io/portfolio/
+
 ## フォーク元
 http://orderedlist.github.com/minimal/
 
