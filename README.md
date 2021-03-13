@@ -1,6 +1,6 @@
 # みーにと自己紹介
 
-- リンク集がほしかった
+- リンク集がほしかった 
 
 ## URL
 https://mini-hiori.github.io/profile/
