@@ -1,11 +1,11 @@
 # みーにと自己紹介
 
-- リンク集がほしかった
+- リンク集がほしかった 
 
 ## URL
 https://mini-hiori.github.io/profile/
 
-## フォーク元
+## 元ネタ
 http://orderedlist.github.com/minimal/
 
 ## ライセンス
